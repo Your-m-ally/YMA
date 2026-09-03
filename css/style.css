@@ -185,7 +185,7 @@ a {
 .logo-i {
   width: 34px;
   height: 34px;
-  background: var(--grad);
+  background: transparent;
   border-radius: 10px;
   display: flex;
   align-items: center;
